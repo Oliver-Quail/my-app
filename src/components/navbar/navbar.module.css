@@ -1,0 +1,13 @@
+
+
+.navBar {
+    display: flex;
+    justify-content: space-around;
+    width: 100%;
+}
+
+
+.active {
+    color: #ea640b;
+    transition: 300ms;
+}
